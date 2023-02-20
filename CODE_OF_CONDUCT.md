@@ -126,3 +126,4 @@ escada de execução](https://github.com/mozilla/diversity).
 Para obter respostas a perguntas comuns sobre este código de conduta, consulte as Perguntas frequentes em
 https://www.contributor-covenant.org/faq. As traduções estão disponíveis em
 https://www.contributor-covenant.org/translations.
+

@@ -18,7 +18,7 @@ Você pode entrar no discord: https://discord.gg/duka7
 Contribuições são bem-vindas! Por favor, leia as [diretrizes de contribuição](https://github.com/philipxlima/ticket-bot/blob/main/CONTRIBUTING.md) primeiro.
 
 ## 💎 Patrocinadores
-Obrigado a todos os nossos patrocinadores! 🙏  
+<!-- Obrigado a todos os nossos patrocinadores! 🙏 --> 
 Você pode ver todas as vantagens aqui: https://github.com/sponsors/philipxlima
 <!-- <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/sayrix/sponsors/sponsors.svg">
