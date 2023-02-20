@@ -20,13 +20,13 @@ Contribuições são bem-vindas! Por favor, leia as [diretrizes de contribuiçã
 ## 💎 Patrocinadores
 Obrigado a todos os nossos patrocinadores! 🙏  
 Você pode ver todas as vantagens aqui: https://github.com/sponsors/philipxlima
-<p align="center">
+<!-- <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/sayrix/sponsors/sponsors.svg">
     <img src='https://raw.githubusercontent.com/Sayrix/sponsors/main/sponsors.svg'/>
   </a>
-</p>
+</p> -->
 
-## Por favor, deixe um ⭐ para ajudar o projeto!
+## Por favor, deixe uma ⭐ para ajudar o projeto!
 
 
 ## License
