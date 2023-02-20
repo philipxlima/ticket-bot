@@ -1,32 +1,32 @@
 # Ticket Bot
 
-Ticket Bot is a open source project of an ticket discord bot using [discord.js](https://discord.js.org) v14
+Ticket Bot é um projeto de código aberto de um bot de discórdia de ticket usando [discord.js](https://discord.js.org) v14
 
 ![Discord.js ticket bot](https://i.imgur.com/564YXvR.png)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphilipxlima%2Fticket-bot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphilipxlima%2Fticket-bot?ref=badge_shield)
 
-## 📄 Documentation
+## 📄 Documentação
 
-The documentation is available [here](https://kiritobot.pages.dev/)
+A documentação está disponível [aqui!](https://kiritobot.pages.dev/)
 
 ## 💬 Discord
 
-You can come on the discord: https://discord.gg/duka7
+Você pode entrar no discord: https://discord.gg/duka7
 
-## ✨ Contributing
+## ✨ Contribuindo
 
-Contributions are welcome! Please read the [contributing guidelines](https://github.com/philipxlima/ticket-bot/blob/main/CONTRIBUTING.md) first.
+Contributions are welcome! Por favor, leia as [diretrizes de contribuição](https://github.com/philipxlima/ticket-bot/blob/main/CONTRIBUTING.md) primeiro.
 
-## 💎 Sponsors
-Thanks to all our sponsors! 🙏  
-You can see all perks here: https://github.com/sponsors/philipxlima
+## 💎 Patrocinadores
+Obrigado a todos os nossos patrocinadores! 🙏  
+Você pode ver todas as vantagens aqui: https://github.com/sponsors/philipxlima
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/sayrix/sponsors/sponsors.svg">
     <img src='https://raw.githubusercontent.com/Sayrix/sponsors/main/sponsors.svg'/>
   </a>
 </p>
 
-## Please leave a ⭐ to help the project!
+## Por favor, deixe um ⭐ para ajudar o projeto!
 
 
 ## License
