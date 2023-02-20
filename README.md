@@ -15,7 +15,7 @@ Você pode entrar no discord: https://discord.gg/duka7
 
 ## ✨ Contribuindo
 
-Contributions are welcome! Por favor, leia as [diretrizes de contribuição](https://github.com/philipxlima/ticket-bot/blob/main/CONTRIBUTING.md) primeiro.
+Contribuições são bem-vindas! Por favor, leia as [diretrizes de contribuição](https://github.com/philipxlima/ticket-bot/blob/main/CONTRIBUTING.md) primeiro.
 
 ## 💎 Patrocinadores
 Obrigado a todos os nossos patrocinadores! 🙏  
