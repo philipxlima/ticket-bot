@@ -11,7 +11,7 @@ A documentação está disponível [aqui!](https://kiritobot.pages.dev/)
 
 ## 💬 Discord
 
-Você pode entrar no discord: https://discord.gg/duka7
+Você pode entrar no discord: https://discord.gg/
 
 ## ✨ Contribuindo
 
